@@ -1,0 +1,2 @@
+Teste temporário de escrita do plugin GitHub.
+Status: arquivo criado com sucesso.
