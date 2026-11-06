@@ -1,2 +1,3 @@
 Teste temporário de escrita do plugin GitHub.
-Status: arquivo criado com sucesso.
+Status: arquivo editado com sucesso.
+Validação: criação, leitura e atualização.
